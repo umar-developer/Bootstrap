@@ -1,0 +1,20 @@
+ /* @media screen and (max-width: 768px){
+body{
+    background-color: black;
+    color:#fff;
+}
+.alert{
+    display: none;
+}
+}
+@media screen and (max-width: 576px){
+    body{
+        display: none;
+    }
+}
+@media screen and (min-width: 768px){
+    body{
+        background: olivedrab;
+    }
+} /*
+
